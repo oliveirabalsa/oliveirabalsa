@@ -8,4 +8,6 @@ I've worked as an electronics, computer support, programming teacher and today I
 - 🔭 I’m currently working with node.js as a back-end developer ...
 - 🌱 I’m currently learning Docker, Nginx, Kubernetes, Typescript and Clean Architecture
 
+![Twitter URL](https://img.shields.io/twitter/url?color=%230077B5&label=linkedin&logo=linkedin&style=for-the-badge&url=https://www.linkedin.com/in/leonardo-balsalobre/) [![Twitter URL](https://img.shields.io/twitter/url?color=red&label=Website&logo=github&style=for-the-badge&url=https://oliveirabalsa.github.io/my-portfolio/)](https://oliveirabalsa.github.io/my-portfolio/)  
+
 
