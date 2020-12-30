@@ -10,8 +10,8 @@ I've worked as an electronics, computer support, programming teacher and today I
 
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=oliveirabalsa&show_icons=true&theme=midnight-purple"/>
-  <img align="top"src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirabalsa&layout=compact&hide=shell&theme=midnight-purple"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=oliveirabalsa&show_icons=true&theme=dark"/>
+  <img align="top"src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirabalsa&layout=compact&hide=shell&theme=dark"/>
 </div>
 
 [![Twitter URL](https://img.shields.io/twitter/url?color=%230077B5&label=linkedin&logo=linkedin&style=for-the-badge&url=https://www.linkedin.com/in/leonardo-balsalobre/)](https://www.linkedin.com/in/leonardo-balsalobre/) 
