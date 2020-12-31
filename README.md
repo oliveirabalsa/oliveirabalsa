@@ -5,8 +5,8 @@ I am a lover of technology, since I love these subjects that involve computer sc
 I've worked as an electronics, computer support, programming teacher and today I'm finally a software developer and my focus (for now) is the javascript language and its technologies.
 
 - 🌎 I'm from São Paulo, SP - Brazil
-- 🔭 I’m currently working with node.js and Vue js as a Full-stack developer and Tech lead...
-- 🌱 I’m currently learning Docker, Nginx, Kubernetes, Typescript and Clean Architecture
+- 🔭 I’m currently working with Node.js and Vue js as a Full-stack developer and Tech lead...
+- 🌱 I’m currently learning React, React Native, Docker, Nginx, Kubernetes, Typescript and Clean Architecture
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=oliveirabalsa&show_icons=true&theme=dark"/>
