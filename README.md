@@ -8,7 +8,6 @@ I've worked as an electronics, computer support, programming teacher and today I
 - 🔭 I’m currently working with node.js and Vue js as a Full-stack developer and Tech lead...
 - 🌱 I’m currently learning Docker, Nginx, Kubernetes, Typescript and Clean Architecture
 
-
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=oliveirabalsa&show_icons=true&theme=dark"/>
   <img align="top"src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirabalsa&layout=compact&hide=shell&theme=dark"/>
