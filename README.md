@@ -13,10 +13,7 @@ I've worked as an electronics, computer support, programming teacher and today I
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirabalsa&layout=compact&hide=shell&theme=dark"/>
 </div>
 <div align="center">
-  
-[![Twitter URL](https://img.shields.io/twitter/url?color=%230077B5&label=linkedin&logo=linkedin&style=for-the-badge&url=https://www.linkedin.com/in/leonardo- balsalobre/)](https://www.linkedin.com/in/leonardo-balsalobre/) 
-  
-[![Twitter URL](https://img.shields.io/twitter/url?color=red&label=Website&logo=github&style=for-the-badge&url=https://oliveirabalsa.github.io/my-portfolio/)](https://oliveirabalsa.github.io/my-portfolio/)  
+  <a href="https://www.linkedin.com/in/leonardo-balsalobre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
