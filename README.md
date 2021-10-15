@@ -8,7 +8,7 @@ I've worked as an electronics, computer support, programming teacher and today I
 - 🔭 I’m currently working with Java and Kotlin programming languages and AWS for Cloud...
 - 🌱 I’m currently learning React, Docker, Kubernetes, AWS and Clean Architecture
 
-<div>
+<div align="center">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=oliveirabalsa&show_icons=true&theme=dark"/>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirabalsa&layout=compact&hide=shell&theme=dark"/>
 </div>
