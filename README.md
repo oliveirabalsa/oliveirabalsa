@@ -6,11 +6,11 @@ I've worked as an electronics, computer support, programming teacher and today I
 
 - 🌎 I'm from São Paulo, SP - Brazil
 - 🔭 I’m currently working with Java and Kotlin programming languages and AWS for Cloud...
-- 🌱 I’m currently learning React, Kotlin, Docker, Java, Kubernetes, AWS and Clean Architecture
+- 🌱 I’m currently learning React, Docker, Kubernetes, AWS and Clean Architecture
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=oliveirabalsa&show_icons=true&theme=dark"/>
-  <img align="top"src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirabalsa&layout=compact&hide=shell&theme=dark"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=oliveirabalsa&show_icons=true&theme=dark"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirabalsa&layout=compact&hide=shell&theme=dark"/>
 </div>
 
 [![Twitter URL](https://img.shields.io/twitter/url?color=%230077B5&label=linkedin&logo=linkedin&style=for-the-badge&url=https://www.linkedin.com/in/leonardo-balsalobre/)](https://www.linkedin.com/in/leonardo-balsalobre/) 
