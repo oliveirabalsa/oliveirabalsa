@@ -6,7 +6,7 @@ I've worked as an electronics, computer support, programming teacher and today I
 
 - 🌎 I'm from São Paulo, SP - Brazil
 - 🔭 I’m currently working with Node.js and React.js...
-- 🌱 I’m currently learning Docker, Kubernetes, AWS and Clean Architecture
+- 🌱 I’m currently learning Kubernetes, AWS and Clean Architecture
 
 <div>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=oliveirabalsa&show_icons=true&theme=dark"/>
