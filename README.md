@@ -1,12 +1,10 @@
 ### Hi there, my name is Leonardo 👋
 
-I am a lover of technology, since I love these subjects that involve computer science and programming, learning about these subjects for me is something that does not become a duty, but a fun. I always try to be in constant learning, technology never stops changing and we need to change with it.
+As an experienced Software Engineer with over 6 years of experience, I'm passionate about staying on the cutting edge of technology and delivering innovative solutions to complex problems. My expertise includes JavaScript, TypeScript, HTML, CSS, SCSS, Bootstrap, Vue.js (Nuxt, Vuex, Vuetify, Quasar), React.js (Next.js, Redux), Node.js with Nest.js, Express, Fastify and Koa frameworks, PostgreSQL, MySQL, MongoDB, Jest, TypeORM, Sequelize, Knex, Git, Docker, Kafka, AWS (S3, Code Pipeline, EC2, ECS, RDS, Elastic Beanstalk, Lambda and Cloud Formation), Kubernetes, Azure, Jira, Trello, and Runrunit.
 
-I've worked as an electronics, computer support, programming teacher and today I'm finally a software developer and my focus (for now) is the javascript language and its technologies.
+Throughout my career, I've worked on a variety of challenging projects that have allowed me to hone my skills and expand my expertise. One of my proudest accomplishments is my open-source project, Mentor Cycle, which connects developers to mentors in a supportive and collaborative environment.
 
-- 🌎 I'm from São Paulo, SP - Brazil
-- 🔭 I’m currently working with Node.js and React.js...
-- 🌱 I’m currently learning Kubernetes, AWS and Clean Architecture
+In addition to my technical skills, I possess strong project management and communication skills. I am committed to staying up-to-date with the latest technologies and techniques, and I'm always seeking new opportunities to learn and grow as a developer.
 
 <div>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=oliveirabalsa&show_icons=true&theme=dark"/>
