@@ -7,7 +7,7 @@ Throughout my career, I've worked on a variety of challenging projects that have
 In addition to my technical skills, I possess strong project management and communication skills. I am committed to staying up-to-date with the latest technologies and techniques, and I'm always seeking new opportunities to learn and grow as a developer.
 
 <div>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=oliveirabalsa&show_icons=true&theme=dark"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=oliveirabalsa&count_private=true&show_icons=true&include_all_commits=true&theme=dark"/>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirabalsa&layout=compact&hide=shell&theme=dark"/>
 </div>
 <div>
