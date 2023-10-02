@@ -1,6 +1,6 @@
 ### Hi there, my name is Leonardo 👋
 
-As an experienced Software Engineer with over 7 years of experience, I'm passionate about staying on the cutting edge of technology and delivering innovative solutions to complex problems. My expertise includes JavaScript, TypeScript, HTML, CSS, SCSS, Bootstrap, Vue.js (Nuxt, Vuex, Vuetify, Quasar), React.js (Next.js, Redux), Node.js with Nest.js, Express, Fastify and Koa frameworks, PostgreSQL, MySQL, MongoDB, Jest, TypeORM, Sequelize, Knex, Git, Docker, Kafka, AWS (S3, Code Pipeline, EC2, ECS, RDS, Elastic Beanstalk, Lambda and Cloud Formation), Kubernetes, Azure, Jira, Trello, and Runrunit.
+As an experienced Software Engineer with over 7 years of experience, I'm passionate about staying on the cutting edge of technology and delivering innovative solutions to complex problems. My expertise includes JavaScript, TypeScript, HTML, CSS, SCSS, Bootstrap, Vue.js (Nuxt, Vuex, Vuetify, Quasar), React.js (Next.js, Redux), Node.js with Nest.js, Express, Fastify and Koa frameworks, PostgreSQL, MySQL, MongoDB, Jest, TypeORM, Sequelize, Knex, Golang(Gin Gonic, Gorm, Chi), Git, Docker, Kafka, Jenkins, AWS (S3, Code Pipeline, EC2, ECS, RDS, Elastic Beanstalk, Lambda and Cloud Formation), Kubernetes, Azure, Jira, Trello and ClickUp
 
 Throughout my career, I've worked on a variety of challenging projects that have allowed me to hone my skills and expand my expertise. One of my proudest accomplishments is my open-source project, Mentor Cycle, which connects developers to mentors in a supportive and collaborative environment.
 
