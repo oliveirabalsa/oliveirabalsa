@@ -7,23 +7,23 @@ I’m a passionate developer dedicated to delivering innovative solutions to com
 
 ### 🚀 Tech Stack
 
-Frontend: JavaScript, TypeScript, HTML, CSS, SCSS, Bootstrap, Vue.js (Nuxt, Vuex, Vuetify, Quasar), React.js (Next.js, Redux)
+Frontend: JavaScript, TypeScript, HTML, CSS, SCSS, Bootstrap, Vue.js (Nuxt, Vuex, Vuetify, Quasar), React.js (Next.js, Redux, MUI, TailwindCSS, Styled Components, Shadcn, Vite), GraphQL, Zod.
 
-Backend: Node.js (Nest.js, Express, Fastify, Koa), Golang (Gin Gonic, Gorm, Chi)
+Backend: Node.js (Nest.js, Express, Fastify, Koa), Golang (Gin Gonic, Gorm, Chi), GraphQL.
 
-Databases: PostgreSQL, MySQL, MongoDB
+Databases: PostgreSQL, MySQL, MongoDB, Redis.
 
-ORMs & Query Builders: TypeORM, Sequelize, Knex
+ORMs & Query Builders: TypeORM, Sequelize, Prisma, Knex
 
-Testing: Jest
+Testing: Jest, Cypress,RTL, WebDriverIO
 
 Cloud Platforms: AWS (S3, CodePipeline, EC2, ECS, RDS, Elastic Beanstalk, Lambda, CloudFormation), Azure
 
 Containerization & Orchestration: Docker, Kubernetes
 
-DevOps & CI/CD: Jenkins, Kafka
+DevOps & CI/CD: Jenkins, Kafka, DataDog, Grafana, Terraform, GH Actions.
 
-Tools: Git, Jira, Trello, ClickUp
+Tools: Git, Jira.
 
 
 
