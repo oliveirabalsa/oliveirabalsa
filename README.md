@@ -15,7 +15,7 @@ Databases: PostgreSQL, MySQL, MongoDB, Redis.
 
 ORMs & Query Builders: TypeORM, Sequelize, Prisma, Knex
 
-Testing: Jest, Cypress,RTL, WebDriverIO
+Testing: Jest, Cypress, RTL, WebDriverIO
 
 Cloud Platforms: AWS (S3, CodePipeline, EC2, ECS, RDS, Elastic Beanstalk, Lambda, CloudFormation), Azure
 
