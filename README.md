@@ -56,6 +56,7 @@ A commitment to continuous learning and adapting to the latest technological adv
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliveirabalsa&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirabalsa&layout=compact&hide=shell&theme=dracula&count_private=true"/>
 </div>
+
 ---
 
 ### 🌐 Connect with Me
