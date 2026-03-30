@@ -25,6 +25,10 @@ DevOps & CI/CD: Jenkins, Kafka, DataDog, Grafana, Terraform, GH Actions.
 
 Tools: Git, Jira.
 
+AI Knowledge: RAG, Vector DBs, Tools, Lanchain.
+
+AI Tools: Cursor, Codex, OpenCode, OpenClaw, Claude Code, Antigravity.
+
 
 
 ---
