@@ -7,15 +7,15 @@ I’m a passionate developer dedicated to delivering innovative solutions to com
 
 ### 🚀 Tech Stack
 
-Frontend: JavaScript, TypeScript, HTML, CSS, SCSS, Bootstrap, Vue.js (Nuxt, Vuex, Vuetify, Quasar), React.js (Next.js, Redux, MUI, TailwindCSS, Styled Components, Shadcn, Vite), GraphQL, Zod.
+Frontend: JavaScript, TypeScript, HTML, CSS, SCSS, Bootstrap, Vue.js (Nuxt, Vuex, Vuetify, Quasar), React.js (Next.js, Redux, Zustand, MUI, TailwindCSS, Styled Components, Shadcn, Vite), GraphQL, Zod.
 
-Backend: Node.js (Nest.js, Express, Fastify, Koa), Golang (Gin Gonic, Gorm, Chi), GraphQL.
+Backend: Node.js (Nest.js, Express, Fastify, Koa), Golang (Gin Gonic, Gorm, Chi), Kotlin (SpringBooy), GraphQL.
 
-Databases: PostgreSQL, MySQL, MongoDB, Redis.
+Databases: PostgreSQL, MySQL, SQlite, MongoDB, Redis.
 
-ORMs & Query Builders: TypeORM, Sequelize, Prisma, Knex
+ORMs & Query Builders: TypeORM, Sequelize, Prisma, Knex.
 
-Testing: Jest, Cypress, RTL, WebDriverIO
+Testing: Jest, Vitest, RTL, Cypress, WebDriverIO, Playwright.
 
 Cloud Platforms: AWS (S3, CodePipeline, EC2, ECS, RDS, Elastic Beanstalk, Lambda, CloudFormation), Azure
 
@@ -25,7 +25,7 @@ DevOps & CI/CD: Jenkins, Kafka, DataDog, Grafana, Terraform, GH Actions.
 
 Tools: Git, Jira.
 
-AI Knowledge: RAG, Vector DBs, Tools, Lanchain.
+AI Knowledge: RAG, Vector DBs, Tools, Lanchain, Langgraph, Langfuse, LLMs.
 
 AI Tools: Cursor, Codex, OpenCode, OpenClaw, Claude Code, Antigravity.
 
